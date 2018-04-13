@@ -1,0 +1,19 @@
+div{
+    padding: 20px 0px 20px 0px;
+}
+
+.jumbotron{
+    margin-bottom: 0;
+}
+
+.btn-custom{
+    background-color: cyan;
+}
+
+.row{
+    align-items: baseline;
+}
+
+.extra{
+    margin-top: 200px;
+}
